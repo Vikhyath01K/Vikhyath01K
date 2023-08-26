@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Vikhyath</h1>
+<h1 align="center">Hi 👋, I'm Vikhyath</h1>
 <h3 align="center">I’m interested in cybersecurity, cloud computing and DevOps</h3>
 
 - 📫 How to reach me **vikhyathkulal@gmail.com**
